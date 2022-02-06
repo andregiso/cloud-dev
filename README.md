@@ -35,9 +35,9 @@ sudo docker pull nginx
 
 - Cloning repository:
 
-![image](images/src1)
+![](https://github.com/andregiso/cloud-dev/blob/main/images/src1.png)
 
 
 - Deploy:
 
-![image](image/src2)
+![](https://github.com/andregiso/cloud-dev/blob/main/images/src2.png)
