@@ -40,4 +40,4 @@ sudo docker pull nginx
 
 - Deploy:
 
-![](https://github.com/andregiso/cloud-dev/blob/main/images/src2.png)
+![](https://github.com/andregiso/cloud-dev/blob/main/images/src4.png)
