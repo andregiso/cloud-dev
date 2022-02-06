@@ -32,8 +32,13 @@ sudo docker pull nginx
 
 
 📱AppService
+```bash
 Cloning repository:
+```
 ![image](images/src1)
 
+```bash
 Deploy:
+```
+
 ![image](image/src2)
